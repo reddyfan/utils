@@ -1,0 +1,16 @@
+{
+  "ip": "39.105.2.205",
+  "mongo": {
+    "port": 27017,
+    "db": "admin",
+    "auth": {
+      "name": "admin",
+      "passwd": "123456"
+    }
+  },
+  "mysql": {
+    "port": 3006,
+    "username": "root",
+    "passwd": "Reddyfan2020@"
+  }
+}
